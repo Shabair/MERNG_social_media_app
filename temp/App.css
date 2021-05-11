@@ -1,13 +1,5 @@
-@import '~antd/dist/antd.css';
 .App {
   text-align: center;
-}
-.logo {
-  float: left;
-  color:#fff;
-}
-ul.ant-menu.ant-menu-dark.ant-menu-root.ant-menu-horizontal {
-  float: right;
 }
 
 .App-logo {
